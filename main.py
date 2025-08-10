@@ -29,7 +29,7 @@ async def main():
     )
 
     agent = Agent(
-    task="Go to sangameswar_ instagram post and grab the most recent post captions",
+    task=(Any Task) "Go to "Your "insta" instagram post and grab the most recent post captions",
     llm=llm,
     browser=browser,  # Added comma here
     controller=controller
