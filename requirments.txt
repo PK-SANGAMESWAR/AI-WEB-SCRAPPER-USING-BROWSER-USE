@@ -1,0 +1,7 @@
+
+asyncio
+bubus
+python-dotenv
+browser-use
+pydantic
+typing-extensions
